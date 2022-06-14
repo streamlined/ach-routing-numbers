@@ -2,6 +2,6 @@
 
 CSV extract of ACH routing database
 
-Last Updated: Sept 2020
+Last Updated: June, 9 2022
 
-Source: Merchant Candy
+Source: [Streamlined](https://www.streamlinedpayments.com)
